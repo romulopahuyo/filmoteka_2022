@@ -2,11 +2,11 @@
   "name": "goit-filmoteka-2022",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://syniepolskyi.github.io/Filmoteka",
+  "homepage": "https://github.com/romulopahuyo/filmoteka_2022",
   "scripts": {
     "open": "parcel src/*.html --open",
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka_2022/"
   },
   "repository": {
     "type": "git",
